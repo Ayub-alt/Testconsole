@@ -1,0 +1,14 @@
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.exe
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.deps.json
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.runtimeconfig.json
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.runtimeconfig.dev.json
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.dll
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\bin\Debug\netcoreapp3.1\Consoletest.pdb
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.csproj.AssemblyReference.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.AssemblyInfoInputs.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.AssemblyInfo.cs
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.csproj.CoreCompileInputs.cache
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.dll
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.pdb
+C:\Users\aiyub\OneDrive\Рабочий стол\Consoletest\obj\Debug\netcoreapp3.1\Consoletest.genruntimeconfig.cache
